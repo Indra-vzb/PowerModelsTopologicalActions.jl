@@ -45,7 +45,7 @@ data_busbars_ac_split_5_acdc_dc = deepcopy(data_5_acdc)
 data_busbars_ac_split_5_acdc_more_buses = deepcopy(data_5_acdc)
 
 # Selecting which busbars are split
-splitted_bus_ac = [1,2,3,4,5]
+splitted_bus_ac = 2
 splitted_bus_dc = 2
 
 # Preparing data
